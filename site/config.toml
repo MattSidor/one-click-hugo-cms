@@ -1,3 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Properties"
+
+[mediaTypes."application/json"]
+    suffix = "json"
