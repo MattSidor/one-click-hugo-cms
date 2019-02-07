@@ -3,4 +3,4 @@ languageCode = "en-us"
 title = "Properties"
 
 [mediaTypes."application/json"]
-    suffix = "json"
+    suffixes = ["json"]
